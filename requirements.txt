@@ -8,6 +8,6 @@ faiss-cpu==1.13.2
 pypdf
 python-dotenv
 sentence-transformers
-torch==2.2.2
+torch==2.5.1
 numpy==1.26.4
 httpx==0.27.0
